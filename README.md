@@ -49,6 +49,10 @@ I love coding and learning about these two disciplines in my spare time.
 <h2>Stats</h2>
   <section align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmncn&layout=compact&theme=github_dark&hide_border=true&" alt="Top Langs"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://github-readme-streak-stats.herokuapp.com?user=alexmncn&theme=github-dark-blue&hide_border=true&card_width=450&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak"/>
   </section>
+  
+  <div align="right">
+    <img src="https://komarev.com/ghpvc/?username=alexmncn&label=Profile%20views&color=2d6ecf&style=flat"/>
+  </div>
