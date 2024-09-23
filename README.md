@@ -52,7 +52,14 @@ I love coding and learning about these two disciplines in my spare time.
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://github-readme-streak-stats.herokuapp.com?user=alexmncn&theme=github-dark-blue&hide_border=true&card_width=445&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak"/>
   </section>
+
+
+<section align="center">
   
+  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alexmncn&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+</section>
+
+
   <div align="right">
     <img src="https://komarev.com/ghpvc/?username=alexmncn&label=Profile%20views&color=2d6ecf&style=flat"/>
   </div>
