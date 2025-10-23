@@ -26,7 +26,8 @@ I love coding and learning about these two disciplines in my spare time.
   <img src="https://api.iconify.design/devicon:angular.svg" alt="angular" title="angular" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="apache" title="apache" width="45" height="45"/>
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" title="arduino" width="45" height="45"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" title="c" width="45" height="45"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="aws" title="aws" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" title="c" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" title="cplusplus" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="css3" width="45" height="45"/>
   <img src="https://cdn.simpleicons.org/docker/2496ED" alt="docker" title="docker" width="45" height="45"/>
